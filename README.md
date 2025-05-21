@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ali Yılmaz
 
-🎓 Computer Engineering Student | 💡 Backend, AI & Embedded Systems Enthusiast
+🎓 Computer Engineering Student | 💡 Backend, AI Systems Enthusiast
 
 [🔗 LinkedIn](https://www.linkedin.com/in/ali-yilmazs/) • [🎯 GitHub](https://github.com/Aliylmaz) • [✍️ Medium](https://medium.com/@Ali_Yilmaz)
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a Computer Engineering student with a passion for **backend development**, **AI**, and **embedded systems**. I thrive on building **AI-driven autonomous solutions** and smart systems that leverage real-time data and intelligent automation.
+I'm a Computer Engineering student with a passion for **backend development**, **AI**. I thrive on building **AI-driven autonomous solutions** and smart systems that leverage real-time data and intelligent automation.
 
 ---
 
