@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a Computer Engineering student with a passion for **backend development**, **AI**. I thrive on building **AI-driven autonomous solutions** and smart systems that leverage real-time data and intelligent automation.
+I'm a Computer Engineering student with a passion for **backend development** and **AI**. I thrive on building **AI-driven autonomous solutions** and smart systems that leverage real-time data and intelligent automation.
 
 ---
 
