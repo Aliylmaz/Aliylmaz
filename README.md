@@ -107,14 +107,6 @@ Built a modular insurance platform with customer onboarding, quote management, p
 
 ---
 
-## 📈 GitHub Stats
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliylmaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliylmaz&layout=compact&theme=dark)
-
----
-
 ## 🏆 Achievements & Contributions
 
 - 🧪 **Regular contributor** to AI & embedded systems research on Medium
