@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-Computer Engineering student with a solid background in backend development and a growing interest in artificial intelligence. I have worked on backend-focused projects using technologies like Python, Java, and SQL, and have strengthened my AI knowledge through hands-on projects and specialized trainings. I enjoy developing systems that combine data processing, API design, and realtime functionality, and I aim to build scalable and efficient software solutions
+Backend Software Engineer specializing in event-driven microservices and scalable architectures. Proficient in designing secure RESTful APIs and optimizing real-time data pipelines using Java Spring Boot, Kafka, Redis, and PostgreSQL. Experienced in bridging robust backend infrastructure with AI/ML integrations (Qdrant, pgvector, RAG). Passionate about deploying resilient, containerized applications (Docker, Kubernetes) and building high-performance, multi-tenant solutions.
 
 ---
 
