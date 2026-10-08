@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ali Yılmaz
 
-🎓 **Computer Engineering Student** | 💡 **Backend & AI Systems Enthusiast**
+🎓 **Computer Engineer** | 💡 **Backend & AI Systems Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ali-yilmazs/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Aliylmaz)
